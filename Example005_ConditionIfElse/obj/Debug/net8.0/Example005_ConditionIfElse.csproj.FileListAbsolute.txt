@@ -1,0 +1,15 @@
+C:\Users\Райан Гослинг\Desktop\шарп\Example005_ConditionIfElse\bin\Debug\net8.0\Example005_ConditionIfElse.exe
+C:\Users\Райан Гослинг\Desktop\шарп\Example005_ConditionIfElse\bin\Debug\net8.0\Example005_ConditionIfElse.deps.json
+C:\Users\Райан Гослинг\Desktop\шарп\Example005_ConditionIfElse\bin\Debug\net8.0\Example005_ConditionIfElse.runtimeconfig.json
+C:\Users\Райан Гослинг\Desktop\шарп\Example005_ConditionIfElse\bin\Debug\net8.0\Example005_ConditionIfElse.dll
+C:\Users\Райан Гослинг\Desktop\шарп\Example005_ConditionIfElse\bin\Debug\net8.0\Example005_ConditionIfElse.pdb
+C:\Users\Райан Гослинг\Desktop\шарп\Example005_ConditionIfElse\obj\Debug\net8.0\Example005_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Райан Гослинг\Desktop\шарп\Example005_ConditionIfElse\obj\Debug\net8.0\Example005_ConditionIfElse.AssemblyInfoInputs.cache
+C:\Users\Райан Гослинг\Desktop\шарп\Example005_ConditionIfElse\obj\Debug\net8.0\Example005_ConditionIfElse.AssemblyInfo.cs
+C:\Users\Райан Гослинг\Desktop\шарп\Example005_ConditionIfElse\obj\Debug\net8.0\Example005_ConditionIfElse.csproj.CoreCompileInputs.cache
+C:\Users\Райан Гослинг\Desktop\шарп\Example005_ConditionIfElse\obj\Debug\net8.0\Example005_ConditionIfElse.sourcelink.json
+C:\Users\Райан Гослинг\Desktop\шарп\Example005_ConditionIfElse\obj\Debug\net8.0\Example005_ConditionIfElse.dll
+C:\Users\Райан Гослинг\Desktop\шарп\Example005_ConditionIfElse\obj\Debug\net8.0\refint\Example005_ConditionIfElse.dll
+C:\Users\Райан Гослинг\Desktop\шарп\Example005_ConditionIfElse\obj\Debug\net8.0\Example005_ConditionIfElse.pdb
+C:\Users\Райан Гослинг\Desktop\шарп\Example005_ConditionIfElse\obj\Debug\net8.0\Example005_ConditionIfElse.genruntimeconfig.cache
+C:\Users\Райан Гослинг\Desktop\шарп\Example005_ConditionIfElse\obj\Debug\net8.0\ref\Example005_ConditionIfElse.dll
