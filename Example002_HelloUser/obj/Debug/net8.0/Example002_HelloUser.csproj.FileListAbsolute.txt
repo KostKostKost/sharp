@@ -1,0 +1,15 @@
+C:\Users\Райан Гослинг\Desktop\шарп\Example002_HelloUser\bin\Debug\net8.0\Example002_HelloUser.exe
+C:\Users\Райан Гослинг\Desktop\шарп\Example002_HelloUser\bin\Debug\net8.0\Example002_HelloUser.deps.json
+C:\Users\Райан Гослинг\Desktop\шарп\Example002_HelloUser\bin\Debug\net8.0\Example002_HelloUser.runtimeconfig.json
+C:\Users\Райан Гослинг\Desktop\шарп\Example002_HelloUser\bin\Debug\net8.0\Example002_HelloUser.dll
+C:\Users\Райан Гослинг\Desktop\шарп\Example002_HelloUser\bin\Debug\net8.0\Example002_HelloUser.pdb
+C:\Users\Райан Гослинг\Desktop\шарп\Example002_HelloUser\obj\Debug\net8.0\Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Райан Гослинг\Desktop\шарп\Example002_HelloUser\obj\Debug\net8.0\Example002_HelloUser.AssemblyInfoInputs.cache
+C:\Users\Райан Гослинг\Desktop\шарп\Example002_HelloUser\obj\Debug\net8.0\Example002_HelloUser.AssemblyInfo.cs
+C:\Users\Райан Гослинг\Desktop\шарп\Example002_HelloUser\obj\Debug\net8.0\Example002_HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\Райан Гослинг\Desktop\шарп\Example002_HelloUser\obj\Debug\net8.0\Example002_HelloUser.sourcelink.json
+C:\Users\Райан Гослинг\Desktop\шарп\Example002_HelloUser\obj\Debug\net8.0\Example002_HelloUser.dll
+C:\Users\Райан Гослинг\Desktop\шарп\Example002_HelloUser\obj\Debug\net8.0\refint\Example002_HelloUser.dll
+C:\Users\Райан Гослинг\Desktop\шарп\Example002_HelloUser\obj\Debug\net8.0\Example002_HelloUser.pdb
+C:\Users\Райан Гослинг\Desktop\шарп\Example002_HelloUser\obj\Debug\net8.0\Example002_HelloUser.genruntimeconfig.cache
+C:\Users\Райан Гослинг\Desktop\шарп\Example002_HelloUser\obj\Debug\net8.0\ref\Example002_HelloUser.dll
